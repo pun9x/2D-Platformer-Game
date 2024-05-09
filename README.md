@@ -10,4 +10,7 @@
 
 ## Demo Game  
 **`--- Video game demo, build and run a trial .exe version. Showcasing gameplay and features in the game ---`**
+
 ![Add build module](https://github.com/pun9x/2D-Platformer-Game/blob/master/Demo/2D-Platformer-Game-Gif.gif)
+
+- Link demo game (HD): [click here](https://www.youtube.com/watch?v=Qh591ZfibAs&t=1s)
